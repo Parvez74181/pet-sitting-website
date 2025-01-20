@@ -5,17 +5,98 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --hero-1: #dbccbb;
+  --hero-2: #e3dfd4;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer utilities {
+  .section {
+    @apply container mx-auto px-3 md:px-0;
+  }
+  .px-container {
+    @apply px-3 sm:px-5 md:px-8 lg:px-10 xl:px-12 2xl:px-14;
+  }
+  .py-gap {
+    @apply py-4 sm:py-5 md:py-8 lg:py-10 xl:py-12 2xl:py-14;
+  }
+  .mx-container {
+    @apply mx-3 sm:mx-5 md:mx-8 lg:mx-10 xl:mx-12 2xl:mx-14;
+  }
+  .section-title {
+    @apply text-3xl md:text-4xl lg:text-5xl font-semibold text-center font-sofia-medium;
+  }
+  .sitterBookingProcess-title {
+    @apply text-2xl md:text-3xl lg:text-4xl font-semibold text-center font-sofia-medium;
+  }
+  .section-subtitle {
+    @apply text-lg text-center mt-3 mb-6 font-sofia-extralight;
   }
 }
 
+@font-face {
+  font-family: "sofia-regular";
+  src: url("../fonts/Sofia-Pro-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-black";
+  src: url("../fonts/Sofia\ Pro\ Black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "sofia-bold";
+  src: url("../fonts/Sofia\ Pro\ Bold\ Az.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-extralight";
+  src: url("../fonts/Sofia\ Pro\ ExtraLight\ Az.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-light";
+  src: url("../fonts/Sofia\ Pro\ Light\ Az.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-light";
+  src: url("../fonts/Sofia\ Pro\ Medium\ Az.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-medium";
+  src: url("../fonts/Sofia\ Pro\ Medium\ Az.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-semibold";
+  src: url("../fonts/Sofia\ Pro\ Semi\ Bold\ Az.otf") format("opentype");
+}
+@font-face {
+  font-family: "sofia-ultralight";
+  src: url("../fonts/Sofia\ Pro\ UltraLight\ Az.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "recoleta";
+  src: url("../fonts/Recoleta-Regular.otf") format("opentype");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "recoleta" !important;
+  letter-spacing: 1px;
+}
+/* .font-sofia {
+  font-family: "sofia";
+}
+.font-recoleta {
+  font-family: "recoleta";
+} */
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-stroke {
+  -webkit-text-stroke: 1px var(--foreground);
+  text-stroke: 1px var(--foreground);
 }
