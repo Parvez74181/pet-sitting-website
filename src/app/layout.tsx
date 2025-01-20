@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { Providers } from "./providers";
 import Footer from "@/components/Footer";
+import Scroll from "@/components/Scroll";
 
 export const metadata: Metadata = {
   title: "Pet Sitting Services",
@@ -18,6 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={` antialiased font-sofia-regular`}>
+        <Scroll />
         <Navbar />
         <main className="light">
           <Providers>{children}</Providers>
