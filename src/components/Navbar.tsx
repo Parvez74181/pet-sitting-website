@@ -14,6 +14,7 @@ import {
   Button as DropDownButton,
 } from "@heroui/react";
 import Button from "./ui/buttton";
+import SitterFindingModal from "./SitterFindingModal/SitterFindingModal";
 
 const Navbar = () => {
   const menuItems = [
@@ -77,9 +78,9 @@ const Navbar = () => {
 
       <NavbarContent justify="end" className="hidden lg:flex">
         <NavbarItem>
-          <Button color="primary" className="w-[220px]">
+          <SitterFindingModal color="primary" className="w-[220px]">
             Book a Sitter Now <PawPrint size={22} />
-          </Button>
+          </SitterFindingModal>
         </NavbarItem>
       </NavbarContent>
     </NavbarUI>

@@ -6,12 +6,13 @@ import StatsSection from "@/components/StatsSection";
 import { FaCat, FaDog, FaFrog } from "react-icons/fa6";
 import { FaFish } from "react-icons/fa";
 import { GiHummingbird, GiReptileTail } from "react-icons/gi";
-import BookAndRelax from "../../public/book-and-relax.jpg";
-import FindYourSitter from "../../public/find-your-sitter.jpg";
-import GetToKnowThem from "../../public/get-to-know-them.jpg";
+
 import SafeCare from "../../public/safe-care.jpg";
 import { cn } from "@/lib/utils";
 import FAQ from "@/components/FAQ";
+import SitterFindingModal from "@/components/SitterFindingModal/SitterFindingModal";
+import services from "@/data/services";
+import sitterBookingProcess from "@/data/sitterBookingProcess";
 
 const petCategories = [
   { name: "Dogs", icon: <FaDog size={24} className="text-blue-500" /> },
@@ -20,66 +21,6 @@ const petCategories = [
   { name: "Birds", icon: <GiHummingbird size={24} className="text-blue-500" /> },
   { name: "Reptiles", icon: <GiReptileTail size={24} className="text-blue-500" /> },
   { name: "Others", icon: <FaFrog size={24} className="text-blue-500" /> },
-];
-
-const sitterBookingProcess = [
-  {
-    title: "Find Your Perfect Sitter",
-    description:
-      "Explore our database of trusted sitters by using advanced search filters. Read detailed reviews and profiles to select the sitter that best matches your needs, whether it’s for pet care, babysitting, or both.",
-    image: BookAndRelax,
-  },
-  {
-    title: "Get to Know Them",
-    description:
-      "Ensure a great match by organizing an in-person Meet & Greet before finalizing your booking. Ask any important questions to get acquainted with their experience, availability, and approach to care.",
-    image: FindYourSitter,
-  },
-  {
-    title: "Book with Confidence",
-    description:
-      "Once you’ve confirmed your sitter, enjoy peace of mind with real-time photo updates, comprehensive Accident Cover, and reliable 24/7 customer support to assist you during the booking period.",
-    image: GetToKnowThem,
-  },
-];
-const services = [
-  {
-    title: "Hosting",
-    description: "Your pet gets to stay with a sitter in their cozy home—a fun getaway with lots of love!",
-    icon: "🏠",
-  },
-  {
-    title: "Sitting",
-    description:
-      "Your sitter stays overnight at your home, keeping your pet comfy and cared for right where they belong.",
-    icon: "🛏️",
-  },
-  {
-    title: "Day Care",
-    description: "Have a busy day? Drop your pet off and they’ll spend the day having fun while you’re out.",
-    icon: "🌞",
-  },
-  {
-    title: "House Visiting",
-    description: "A quick visit from the sitter to give your pet food, water, and some much-needed attention.",
-    icon: "🏡",
-  },
-  {
-    title: "Dog Walking",
-    description: "Puppy energy to burn? Let your sitter take them for a fun walk in the neighborhood!",
-    icon: "🐕",
-  },
-  {
-    title: "Dog Grooming",
-    description: "Treat your pup to a spa day! They’ll come back looking and feeling their best.",
-    icon: "✂️",
-  },
-  {
-    title: "Dog Training",
-    description:
-      "Got a mischievous pup? Our trainers will teach them to be on their best behavior—paw-sitive results guaranteed!",
-    icon: "🎓",
-  },
 ];
 
 export default function Home() {
@@ -97,10 +38,9 @@ export default function Home() {
             </p>
 
             <div className="flex items-center sm:justify-center lg:justify-start sm:flex-row flex-col gap-2 sm:gap-5 lg:gap-2 xl:gap-5">
-              <Button color="primary" className="w-full sm:w-[220px]  h-12">
+              <SitterFindingModal color="primary" className="w-full sm:w-[220px]  h-12">
                 Book a Sitter Now <PawPrint />
-              </Button>
-
+              </SitterFindingModal>
               <Button className="bg-transparent hover:bg-gray-100 border w-full sm:w-[220px] lg:w-[200px] xl:w-[220px]  h-12">
                 Become a sitter <ArrowRight strokeWidth={1} />
               </Button>

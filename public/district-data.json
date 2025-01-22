@@ -1,0 +1,2663 @@
+[
+  {
+    "label": "Akhaura, Brahmanbaria"
+  },
+  {
+    "label": "Asugonj, Brahmanbaria"
+  },
+  {
+    "label": "Banchharampur, Brahmanbaria"
+  },
+  {
+    "label": "Bijoynagar, Brahmanbaria"
+  },
+  {
+    "label": "Brahamanbaria Sadar, Brahmanbaria"
+  },
+  {
+    "label": "Kasba, Brahmanbaria"
+  },
+  {
+    "label": "Nabinagar, Brahmanbaria"
+  },
+  {
+    "label": "Nasirnagar, Brahmanbaria"
+  },
+  {
+    "label": "Sarail, Brahmanbaria"
+  },
+  {
+    "label": "Bagerhat Sadar, Bagerhat"
+  },
+  {
+    "label": "Chitalmari, Bagerhat"
+  },
+  {
+    "label": "Fakirhat, Bagerhat"
+  },
+  {
+    "label": "Kachua, Bagerhat"
+  },
+  {
+    "label": "Mollahat, Bagerhat"
+  },
+  {
+    "label": "Mongla, Bagerhat"
+  },
+  {
+    "label": "Morelganj, Bagerhat"
+  },
+  {
+    "label": "Rampal, Bagerhat"
+  },
+  {
+    "label": "Rayenda, Bagerhat"
+  },
+  {
+    "label": "Sarankhola, Bagerhat"
+  },
+  {
+    "label": "Alikadam, Bandarban"
+  },
+  {
+    "label": "Bandarban Sadar, Bandarban"
+  },
+  {
+    "label": "Kalaghata, Bandarban"
+  },
+  {
+    "label": "Lama, Bandarban"
+  },
+  {
+    "label": "Naikhong, Bandarban"
+  },
+  {
+    "label": "Roanchhari, Bandarban"
+  },
+  {
+    "label": "Ruma, Bandarban"
+  },
+  {
+    "label": "Thanchi, Bandarban"
+  },
+  {
+    "label": "Amtoly, Barguna"
+  },
+  {
+    "label": "Bamna, Barguna"
+  },
+  {
+    "label": "Barguna Sadar, Barguna"
+  },
+  {
+    "label": "Betage, Barguna"
+  },
+  {
+    "label": "Pathor ghata, Barguna"
+  },
+  {
+    "label": "Taltoly, Barguna"
+  },
+  {
+    "label": "Agailzhara, Barishal"
+  },
+  {
+    "label": "Babuganj, Barishal"
+  },
+  {
+    "label": "Bakergonj, Barishal"
+  },
+  {
+    "label": "Banaripara, Barishal"
+  },
+  {
+    "label": "Barisal Bandor Thana, Barishal"
+  },
+  {
+    "label": "Barisal Sadar, Barishal"
+  },
+  {
+    "label": "Gauronodi, Barishal"
+  },
+  {
+    "label": "Hizla, Barishal"
+  },
+  {
+    "label": "Kotowali, Barishal"
+  },
+  {
+    "label": "Mahendiganj, Barishal"
+  },
+  {
+    "label": "Muladi, Barishal"
+  },
+  {
+    "label": "Wazirpur Powrosova, Barishal"
+  },
+  {
+    "label": "Bhola Sadar, Bhola"
+  },
+  {
+    "label": "Burhanuddin, Bhola"
+  },
+  {
+    "label": "Char fashion, Bhola"
+  },
+  {
+    "label": "Dokkhin aicha, Bhola"
+  },
+  {
+    "label": "Doulatkhan, Bhola"
+  },
+  {
+    "label": "Lalmohon, Bhola"
+  },
+  {
+    "label": "Tazumuddin, Bhola"
+  },
+  {
+    "label": "Adamdighi, Bogura"
+  },
+  {
+    "label": "Bogra - Gabtoli, Bogura"
+  },
+  {
+    "label": "Bogra Sadar, Bogura"
+  },
+  {
+    "label": "Dhunat, Bogura"
+  },
+  {
+    "label": "Dupchachia, Bogura"
+  },
+  {
+    "label": "Kahalu, Bogura"
+  },
+  {
+    "label": "Nandigram, Bogura"
+  },
+  {
+    "label": "Sariakandi, Bogura"
+  },
+  {
+    "label": "Shajahanpur, Bogura"
+  },
+  {
+    "label": "Shantaher, Bogura"
+  },
+  {
+    "label": "Sherpur, Bogura"
+  },
+  {
+    "label": "Shibganj, Bogura"
+  },
+  {
+    "label": "Sonatola, Bogura"
+  },
+  {
+    "label": "Chandpur Sadar, Chandpur"
+  },
+  {
+    "label": "Faridganj, Chandpur"
+  },
+  {
+    "label": "Hayemchar, Chandpur"
+  },
+  {
+    "label": "Haziganj, Chandpur"
+  },
+  {
+    "label": "Kachua, Chandpur"
+  },
+  {
+    "label": "Matlab, Chandpur"
+  },
+  {
+    "label": "Matlab-Uttar, Chandpur"
+  },
+  {
+    "label": "Shahrasti, Chandpur"
+  },
+  {
+    "label": "Bholahat, Chapai Nawabganj"
+  },
+  {
+    "label": "Chapainawabganj Sadar, Chapai Nawabganj"
+  },
+  {
+    "label": "Gomastapur, Chapai Nawabganj"
+  },
+  {
+    "label": "Nachole, Chapai Nawabganj"
+  },
+  {
+    "label": "Shibganj, Chapai Nawabganj"
+  },
+  {
+    "label": "Khulshi, Chattogram"
+  },
+  {
+    "label": "Akbarsha, Chattogram"
+  },
+  {
+    "label": "Anawara, Chattogram"
+  },
+  {
+    "label": "Andarkilla, Chattogram"
+  },
+  {
+    "label": "Anowara, Chattogram"
+  },
+  {
+    "label": "Bakoliya thana, Chattogram"
+  },
+  {
+    "label": "Bashkhali, Chattogram"
+  },
+  {
+    "label": "Bayazid, Chattogram"
+  },
+  {
+    "label": "Boalkhali, Chattogram"
+  },
+  {
+    "label": "Bondor, Chattogram"
+  },
+  {
+    "label": "CTG - Lohagara, Chattogram"
+  },
+  {
+    "label": "Chandanaish, Chattogram"
+  },
+  {
+    "label": "Chandgaon, Chattogram"
+  },
+  {
+    "label": "Chawkbazar (Chattogram), Chattogram"
+  },
+  {
+    "label": "Dohajari, Chattogram"
+  },
+  {
+    "label": "Double mooring, Chattogram"
+  },
+  {
+    "label": "EPZ, Chattogram"
+  },
+  {
+    "label": "East Joara, Chattogram"
+  },
+  {
+    "label": "Enayet bazar, Chattogram"
+  },
+  {
+    "label": "Fatikchhari, Chattogram"
+  },
+  {
+    "label": "Halishahar, Chattogram"
+  },
+  {
+    "label": "Hathazari, Chattogram"
+  },
+  {
+    "label": "Karnophuli, Chattogram"
+  },
+  {
+    "label": "Keranihat, Chattogram"
+  },
+  {
+    "label": "Kotowali Chittagong, Chattogram"
+  },
+  {
+    "label": "Kotwali (Chattogram), Chattogram"
+  },
+  {
+    "label": "Mirsharai, Chattogram"
+  },
+  {
+    "label": "Nasirabad, Chattogram"
+  },
+  {
+    "label": "Nazirhat, Chattogram"
+  },
+  {
+    "label": "New Market CTG, Chattogram"
+  },
+  {
+    "label": "Pahartali, Chattogram"
+  },
+  {
+    "label": "Panchlaish ctg, Chattogram"
+  },
+  {
+    "label": "Patia, Chattogram"
+  },
+  {
+    "label": "Rangunia, Chattogram"
+  },
+  {
+    "label": "Raozan, Chattogram"
+  },
+  {
+    "label": "Sadarghat (Chattogram), Chattogram"
+  },
+  {
+    "label": "Sandwip, Chattogram"
+  },
+  {
+    "label": "Satkaniya, Chattogram"
+  },
+  {
+    "label": "Sitakunda, Chattogram"
+  },
+  {
+    "label": "Vatiary, Chattogram"
+  },
+  {
+    "label": "Zorarganj, Chattogram"
+  },
+  {
+    "label": "Alamdanga, Chuadanga"
+  },
+  {
+    "label": "Chuadanga Sadar, Chuadanga"
+  },
+  {
+    "label": "Damurhuda, Chuadanga"
+  },
+  {
+    "label": "Darshana, Chuadanga"
+  },
+  {
+    "label": "Doulatganj, Chuadanga"
+  },
+  {
+    "label": "Jiban nagar, Chuadanga"
+  },
+  {
+    "label": "Chakaria, Cox's Bazar"
+  },
+  {
+    "label": "Cox's bazar Sadar, Cox's Bazar"
+  },
+  {
+    "label": "Eidgah, Cox's Bazar"
+  },
+  {
+    "label": "Kutubdia, Cox's Bazar"
+  },
+  {
+    "label": "Moheshkhali, Cox's Bazar"
+  },
+  {
+    "label": "Pakua, Cox's Bazar"
+  },
+  {
+    "label": "Ramu, Cox's Bazar"
+  },
+  {
+    "label": "Teknaf, Cox's Bazar"
+  },
+  {
+    "label": "Ukhia, Cox's Bazar"
+  },
+  {
+    "label": "B.Para, Cumilla"
+  },
+  {
+    "label": "Barura, Cumilla"
+  },
+  {
+    "label": "Burichang, Cumilla"
+  },
+  {
+    "label": "Cantonment, Cumilla"
+  },
+  {
+    "label": "Chandina, Cumilla"
+  },
+  {
+    "label": "Chauddagram, Cumilla"
+  },
+  {
+    "label": "Comilla Companigonj, Cumilla"
+  },
+  {
+    "label": "Cumilla Sadar, Cumilla"
+  },
+  {
+    "label": "Daudkandi, Cumilla"
+  },
+  {
+    "label": "Devidwar, Cumilla"
+  },
+  {
+    "label": "Eliotgonj, Cumilla"
+  },
+  {
+    "label": "Gouripur, Cumilla"
+  },
+  {
+    "label": "Homna, Cumilla"
+  },
+  {
+    "label": "Kotbari, Cumilla"
+  },
+  {
+    "label": "Laksam, Cumilla"
+  },
+  {
+    "label": "Lalmai, Cumilla"
+  },
+  {
+    "label": "Megna, Cumilla"
+  },
+  {
+    "label": "Mia-Bazar, Cumilla"
+  },
+  {
+    "label": "Monohorgonj, Cumilla"
+  },
+  {
+    "label": "Muddafarganj, Cumilla"
+  },
+  {
+    "label": "Muradnagar, Cumilla"
+  },
+  {
+    "label": "Nangolkot, Cumilla"
+  },
+  {
+    "label": "Sadar Dakkhin, Cumilla"
+  },
+  {
+    "label": "South Daudkandi, Cumilla"
+  },
+  {
+    "label": "Titash, Cumilla"
+  },
+  {
+    "label": "Dhamrai , Savar, Dhaka"
+  },
+  {
+    "label": "Savar-Nabinagar, Dhaka"
+  },
+  {
+    "label": "house building, Dhaka"
+  },
+  {
+    "label": "60 feet, Dhaka"
+  },
+  {
+    "label": "Abdullahpur Uttara, Dhaka"
+  },
+  {
+    "label": "Abul Hotel, Dhaka"
+  },
+  {
+    "label": "Adabor, Dhaka"
+  },
+  {
+    "label": "Adarsha Nagar - Kutubpur, Dhaka"
+  },
+  {
+    "label": "Aftab Nagar, Dhaka"
+  },
+  {
+    "label": "Agargaon, Dhaka"
+  },
+  {
+    "label": "Agargaon-Taltola, Dhaka"
+  },
+  {
+    "label": "Arambag, Dhaka"
+  },
+  {
+    "label": "Ashkona, Dhaka"
+  },
+  {
+    "label": "Ati Bazar, Dhaka"
+  },
+  {
+    "label": "Azimpur (Lalbag), Dhaka"
+  },
+  {
+    "label": "Badda, Dhaka"
+  },
+  {
+    "label": "Baily Road, Dhaka"
+  },
+  {
+    "label": "Bakshi Bazar, Dhaka"
+  },
+  {
+    "label": "Balughat, Dhaka"
+  },
+  {
+    "label": "Banani, Dhaka"
+  },
+  {
+    "label": "Banani DOHS, Dhaka"
+  },
+  {
+    "label": "Banasree (Block A-G), Dhaka"
+  },
+  {
+    "label": "Banasree (Block H-J), Dhaka"
+  },
+  {
+    "label": "Bangla bazar, Dhaka"
+  },
+  {
+    "label": "Bangshal, Dhaka"
+  },
+  {
+    "label": "Baridhara DOHS, Dhaka"
+  },
+  {
+    "label": "Baridhara Diplomatic Zone, Dhaka"
+  },
+  {
+    "label": "Baridhara J Block, Dhaka"
+  },
+  {
+    "label": "Bashabo, Dhaka"
+  },
+  {
+    "label": "Bashundhara, Dhaka"
+  },
+  {
+    "label": "Bawnia, Dhaka"
+  },
+  {
+    "label": "Begunbari, Dhaka"
+  },
+  {
+    "label": "Benaroshi Polli, Dhaka"
+  },
+  {
+    "label": "Benaroshi polli Blok A, Dhaka"
+  },
+  {
+    "label": "Benaroshi polli Blok B,C, Dhaka"
+  },
+  {
+    "label": "Benaroshi polli Blok D, Dhaka"
+  },
+  {
+    "label": "Beraid, Dhaka"
+  },
+  {
+    "label": "Block A, C, Mirpur 11, Dhaka"
+  },
+  {
+    "label": "Block A,B, Mirpur 6, Dhaka"
+  },
+  {
+    "label": "Block B, D, Mirpur 11, Dhaka"
+  },
+  {
+    "label": "Block D,E , Mirpur 6, Dhaka"
+  },
+  {
+    "label": "Block-E, Mirpur 12, Dhaka"
+  },
+  {
+    "label": "Boro Moghbazar, Dhaka"
+  },
+  {
+    "label": "Bulk Merchant, Dhaka"
+  },
+  {
+    "label": "Central Road, Dhaka"
+  },
+  {
+    "label": "ChawkBazar (Dhaka), Dhaka"
+  },
+  {
+    "label": "DIT Road, Dhaka"
+  },
+  {
+    "label": "Dakshinkhan, Dhaka"
+  },
+  {
+    "label": "Darussalam, Dhaka"
+  },
+  {
+    "label": "Demra, Dhaka"
+  },
+  {
+    "label": "Dhaka Medical, Dhaka"
+  },
+  {
+    "label": "Dhaka University, Dhaka"
+  },
+  {
+    "label": "Dhaka cantonment, Dhaka"
+  },
+  {
+    "label": "Dhanmondi, Dhaka"
+  },
+  {
+    "label": "Dholpur, Dhaka"
+  },
+  {
+    "label": "Diabari, Dhaka"
+  },
+  {
+    "label": "Dohar, Dhaka"
+  },
+  {
+    "label": "ECB, Dhaka"
+  },
+  {
+    "label": "Elephant Road, Dhaka"
+  },
+  {
+    "label": "Equria Thana, Dhaka"
+  },
+  {
+    "label": "Eskaton, Dhaka"
+  },
+  {
+    "label": "Estern Housing, Dhaka"
+  },
+  {
+    "label": "Extension Pallabi, Dhaka"
+  },
+  {
+    "label": "Faidabad, Dhaka"
+  },
+  {
+    "label": "Faridabad, Dhaka"
+  },
+  {
+    "label": "Farmgate, Dhaka"
+  },
+  {
+    "label": "Gandaria, Dhaka"
+  },
+  {
+    "label": "Ganobhabon, Dhaka"
+  },
+  {
+    "label": "Giridhara Abashik, Dhaka"
+  },
+  {
+    "label": "Gopibagh, Dhaka"
+  },
+  {
+    "label": "Goran, Dhaka"
+  },
+  {
+    "label": "Gulbagh, Dhaka"
+  },
+  {
+    "label": "Gulisthan, Dhaka"
+  },
+  {
+    "label": "Gulshan 1, Dhaka"
+  },
+  {
+    "label": "Gulshan-2, Dhaka"
+  },
+  {
+    "label": "Hatirpool, Dhaka"
+  },
+  {
+    "label": "Hazaribagh, Dhaka"
+  },
+  {
+    "label": "Ibrahimpur, Dhaka"
+  },
+  {
+    "label": "Islampur, Dhaka"
+  },
+  {
+    "label": "Islampur (Dhamrai), Dhaka"
+  },
+  {
+    "label": "Jatrabari, Dhaka"
+  },
+  {
+    "label": "Jhauchor, Dhaka"
+  },
+  {
+    "label": "Jigatola, Dhaka"
+  },
+  {
+    "label": "Joardar Lane, Dhaka"
+  },
+  {
+    "label": "Journalist Residential Area, Dhaka"
+  },
+  {
+    "label": "Jurain, Dhaka"
+  },
+  {
+    "label": "কদমতলি, Dhaka"
+  },
+  {
+    "label": "Kalabagan, Dhaka"
+  },
+  {
+    "label": "Kallyanpur, Dhaka"
+  },
+  {
+    "label": "Kamalapur, Dhaka"
+  },
+  {
+    "label": "Kathalbagan, Dhaka"
+  },
+  {
+    "label": "Kawla, Dhaka"
+  },
+  {
+    "label": "Kawran Bazar, Dhaka"
+  },
+  {
+    "label": "Keraniganj, Dhaka"
+  },
+  {
+    "label": "Keraniganj Model Thana, Dhaka"
+  },
+  {
+    "label": "Khilgaon, Dhaka"
+  },
+  {
+    "label": "Khilkhet, Dhaka"
+  },
+  {
+    "label": "Kotwali (Dhaka), Dhaka"
+  },
+  {
+    "label": "Kuril, Dhaka"
+  },
+  {
+    "label": "Lakshmibazar, Dhaka"
+  },
+  {
+    "label": "Lalbag, Dhaka"
+  },
+  {
+    "label": "Lalkuthi, Dhaka"
+  },
+  {
+    "label": "Love Road, Mirpur-2, Dhaka"
+  },
+  {
+    "label": "Malibagh  Baganbari, Dhaka"
+  },
+  {
+    "label": "Malibagh College Road, Dhaka"
+  },
+  {
+    "label": "Malibagh Lane, Dhaka"
+  },
+  {
+    "label": "Malibagh Pabna Colony, Dhaka"
+  },
+  {
+    "label": "Manda, Dhaka"
+  },
+  {
+    "label": "Manik Nagar, Dhaka"
+  },
+  {
+    "label": "Manikdi, Dhaka"
+  },
+  {
+    "label": "Masjid Market, Mirpur 2, Dhaka"
+  },
+  {
+    "label": "Matikata, Dhaka"
+  },
+  {
+    "label": "Matuail, Dhaka"
+  },
+  {
+    "label": "Mazar road, Dhaka"
+  },
+  {
+    "label": "Middle Rosulbag, Dhaka"
+  },
+  {
+    "label": "Mirpur 1, Dhaka"
+  },
+  {
+    "label": "Mirpur 1 Market Area, Dhaka"
+  },
+  {
+    "label": "Mirpur 10, Dhaka"
+  },
+  {
+    "label": "Mirpur 11, Dhaka"
+  },
+  {
+    "label": "Mirpur 11 Lalmatia, Dhaka"
+  },
+  {
+    "label": "Mirpur 12, Dhaka"
+  },
+  {
+    "label": "Mirpur 12 Block A,C, Dhaka"
+  },
+  {
+    "label": "Mirpur 12 Block Ta, Dhaka"
+  },
+  {
+    "label": "Mirpur 12 Block-Dhak, B, Dhaka"
+  },
+  {
+    "label": "Mirpur 13, Dhaka"
+  },
+  {
+    "label": "Mirpur 14, Dhaka"
+  },
+  {
+    "label": "Mirpur 2, Dhaka"
+  },
+  {
+    "label": "Mirpur 6, Dhaka"
+  },
+  {
+    "label": "Mirpur 6 (Block C), Dhaka"
+  },
+  {
+    "label": "Mirpur 7, Dhaka"
+  },
+  {
+    "label": "Mirpur Cantonment, Dhaka"
+  },
+  {
+    "label": "Mirpur Cantonment (Ave new 3 ), Dhaka"
+  },
+  {
+    "label": "Mirpur DOHS, Dhaka"
+  },
+  {
+    "label": "Mirpur DOHS (Ave New 9), Dhaka"
+  },
+  {
+    "label": "Mirpur DOHS (Ave new 2), Dhaka"
+  },
+  {
+    "label": "Mirpur-Rupnagar, Dhaka"
+  },
+  {
+    "label": "Modhubag, Dhaka"
+  },
+  {
+    "label": "Mogbazar, Dhaka"
+  },
+  {
+    "label": "Mohakhali, Dhaka"
+  },
+  {
+    "label": "Mohakhali DOHS, Dhaka"
+  },
+  {
+    "label": "Mohammadpur, Dhaka"
+  },
+  {
+    "label": "Monipur, Dhaka"
+  },
+  {
+    "label": "Monumia Market, Dhaka"
+  },
+  {
+    "label": "Motijheel, Dhaka"
+  },
+  {
+    "label": "Mugda, Dhaka"
+  },
+  {
+    "label": "Nadda, Dhaka"
+  },
+  {
+    "label": "Nakhalpara, Dhaka"
+  },
+  {
+    "label": "Narinda, Dhaka"
+  },
+  {
+    "label": "Nawabganj (Dhaka), Dhaka"
+  },
+  {
+    "label": "Nawabganj (Dohar), Dhaka"
+  },
+  {
+    "label": "Nawabpur, Dhaka"
+  },
+  {
+    "label": "Nazim Uddin Road, Dhaka"
+  },
+  {
+    "label": "Nazira Bazar, Dhaka"
+  },
+  {
+    "label": "New Elephant Road, Dhaka"
+  },
+  {
+    "label": "New Market, Dhaka"
+  },
+  {
+    "label": "Niketan, Dhaka"
+  },
+  {
+    "label": "Nikunja, Dhaka"
+  },
+  {
+    "label": "Nikunja 2, Dhaka"
+  },
+  {
+    "label": "Nilkhet, Dhaka"
+  },
+  {
+    "label": "Nimaikishori, Dhaka"
+  },
+  {
+    "label": "North Sanarpar, Dhaka"
+  },
+  {
+    "label": "Noyatola road, Dhaka"
+  },
+  {
+    "label": "On-demand transfer, Dhaka"
+  },
+  {
+    "label": "Paikpara, Dhaka"
+  },
+  {
+    "label": "Pallabi, Dhaka"
+  },
+  {
+    "label": "Pallabi Residential area, Dhaka"
+  },
+  {
+    "label": "Paltan, Dhaka"
+  },
+  {
+    "label": "Panthapath, Dhaka"
+  },
+  {
+    "label": "Pirerbagh, Dhaka"
+  },
+  {
+    "label": "Rampura, Dhaka"
+  },
+  {
+    "label": "Rayer Bazar, Dhaka"
+  },
+  {
+    "label": "Rayerbag, Dhaka"
+  },
+  {
+    "label": "Razarbag Police line, Dhaka"
+  },
+  {
+    "label": "Rupnagar, Dhaka"
+  },
+  {
+    "label": "Sadarghat (Dhaka), Dhaka"
+  },
+  {
+    "label": "Savar, Dhaka"
+  },
+  {
+    "label": "Senpara, Dhaka"
+  },
+  {
+    "label": "Shagufta Block-D, Dhaka"
+  },
+  {
+    "label": "Shah Ali Bag, Dhaka"
+  },
+  {
+    "label": "Shahbag, Dhaka"
+  },
+  {
+    "label": "Shahid Nagar, Dhaka"
+  },
+  {
+    "label": "Shahjadpur, Dhaka"
+  },
+  {
+    "label": "Shajahanpur, Dhaka"
+  },
+  {
+    "label": "Shanir Akhra, Dhaka"
+  },
+  {
+    "label": "Shantinagar, Dhaka"
+  },
+  {
+    "label": "Shegunbagicha, Dhaka"
+  },
+  {
+    "label": "Sheikh Rasel Park, Dhaka"
+  },
+  {
+    "label": "Sher-E-Bangla National Cricket Stadium, Dhaka"
+  },
+  {
+    "label": "Sher-e bangla Nagar, Dhaka"
+  },
+  {
+    "label": "Shewrapara, Dhaka"
+  },
+  {
+    "label": "Shiddeshwari, Dhaka"
+  },
+  {
+    "label": "Shimrail, Dhaka"
+  },
+  {
+    "label": "Shishu Mela, Dhaka"
+  },
+  {
+    "label": "Shonalibagh, Dhaka"
+  },
+  {
+    "label": "Shonir Akhra, Dhaka"
+  },
+  {
+    "label": "Shyamoli, Dhaka"
+  },
+  {
+    "label": "South Banasree, Dhaka"
+  },
+  {
+    "label": "South kafrul, Dhaka"
+  },
+  {
+    "label": "Sutrapur, Dhaka"
+  },
+  {
+    "label": "Technical, Dhaka"
+  },
+  {
+    "label": "Tejgaon, Dhaka"
+  },
+  {
+    "label": "Tolarbag, Dhaka"
+  },
+  {
+    "label": "Turag, Dhaka"
+  },
+  {
+    "label": "UttarKhan, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 1, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 10, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 11, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 12, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 13, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 14, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 15, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 16, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 17, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 18, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 3, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 4, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 5, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 6, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 7, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 8, Dhaka"
+  },
+  {
+    "label": "Uttara Sector 9, Dhaka"
+  },
+  {
+    "label": "Wari, Dhaka"
+  },
+  {
+    "label": "West Agargaon, Dhaka"
+  },
+  {
+    "label": "West Kafrul, Dhaka"
+  },
+  {
+    "label": "Zoo Road, Dhaka"
+  },
+  {
+    "label": "azampur (Uttara), Dhaka"
+  },
+  {
+    "label": "kafrul, Dhaka"
+  },
+  {
+    "label": "kamrangir char, Dhaka"
+  },
+  {
+    "label": "london market, Dhaka"
+  },
+  {
+    "label": "lost, Dhaka"
+  },
+  {
+    "label": "mukti nagar, Dhaka"
+  },
+  {
+    "label": "narayanpur - keshobpur, Dhaka"
+  },
+  {
+    "label": "new paltan, Dhaka"
+  },
+  {
+    "label": "rajlakkhi market, Dhaka"
+  },
+  {
+    "label": "shampur, Dhaka"
+  },
+  {
+    "label": "shankar, Dhaka"
+  },
+  {
+    "label": "Biral, Dinajpur"
+  },
+  {
+    "label": "Birampur, Dinajpur"
+  },
+  {
+    "label": "Birganj, Dinajpur"
+  },
+  {
+    "label": "Bochaganj, Dinajpur"
+  },
+  {
+    "label": "Chirirbandar, Dinajpur"
+  },
+  {
+    "label": "Dinajpur Sadar, Dinajpur"
+  },
+  {
+    "label": "Fulbari, Dinajpur"
+  },
+  {
+    "label": "Ghoraghat, Dinajpur"
+  },
+  {
+    "label": "Hakimpur (Hili), Dinajpur"
+  },
+  {
+    "label": "Kaharol, Dinajpur"
+  },
+  {
+    "label": "Khanshama, Dinajpur"
+  },
+  {
+    "label": "Nawabganj Dinajpur, Dinajpur"
+  },
+  {
+    "label": "Parbatipur, Dinajpur"
+  },
+  {
+    "label": "Alfadanga, Faridpur"
+  },
+  {
+    "label": "Bhanga, Faridpur"
+  },
+  {
+    "label": "Boalmari, Faridpur"
+  },
+  {
+    "label": "Charbhadrashan, Faridpur"
+  },
+  {
+    "label": "Faridpur Sadar, Faridpur"
+  },
+  {
+    "label": "Madukhali, Faridpur"
+  },
+  {
+    "label": "Nagarkanda, Faridpur"
+  },
+  {
+    "label": "Sadarpur, Faridpur"
+  },
+  {
+    "label": "Saltha, Faridpur"
+  },
+  {
+    "label": "Chhagalnaiya, Feni"
+  },
+  {
+    "label": "Daganbhuiyan, Feni"
+  },
+  {
+    "label": "Feni Sadar, Feni"
+  },
+  {
+    "label": "Ful-Gazi, Feni"
+  },
+  {
+    "label": "Pashuram, Feni"
+  },
+  {
+    "label": "Sonagazi, Feni"
+  },
+  {
+    "label": "Fulchhari, Gaibandha"
+  },
+  {
+    "label": "Gaibandha Sadar, Gaibandha"
+  },
+  {
+    "label": "Gobindaganj, Gaibandha"
+  },
+  {
+    "label": "Palashbari, Gaibandha"
+  },
+  {
+    "label": "Sadulllahpur, Gaibandha"
+  },
+  {
+    "label": "Saghata, Gaibandha"
+  },
+  {
+    "label": "Sundarganj, Gaibandha"
+  },
+  {
+    "label": "Amraid, Gazipur"
+  },
+  {
+    "label": "Aral, Gazipur"
+  },
+  {
+    "label": "Bason, Gazipur"
+  },
+  {
+    "label": "Bhawal Mirzapur, Gazipur"
+  },
+  {
+    "label": "Board Bazar, Gazipur"
+  },
+  {
+    "label": "Borobari, Gazipur"
+  },
+  {
+    "label": "Chalar Bazar, Gazipur"
+  },
+  {
+    "label": "College gate, Gazipur"
+  },
+  {
+    "label": "Gacha, Gazipur"
+  },
+  {
+    "label": "Gazipur Chowrasta, Gazipur"
+  },
+  {
+    "label": "Gazipura, Gazipur"
+  },
+  {
+    "label": "Hotapara, Gazipur"
+  },
+  {
+    "label": "Joydebpur, Gazipur"
+  },
+  {
+    "label": "Kaliakair, Gazipur"
+  },
+  {
+    "label": "Kaliganj, Gazipur"
+  },
+  {
+    "label": "Kapashiya, Gazipur"
+  },
+  {
+    "label": "Kapasia, Gazipur"
+  },
+  {
+    "label": "Kashimpur, Gazipur"
+  },
+  {
+    "label": "Konabari, Gazipur"
+  },
+  {
+    "label": "Mawna, Gazipur"
+  },
+  {
+    "label": "Mowchak, Gazipur"
+  },
+  {
+    "label": "Porabari, Gazipur"
+  },
+  {
+    "label": "Rajendrapur Bangla Bazar, Gazipur"
+  },
+  {
+    "label": "Rajendrapur Cantonment, Gazipur"
+  },
+  {
+    "label": "Sreepur, Gazipur"
+  },
+  {
+    "label": "Toke, Gazipur"
+  },
+  {
+    "label": "Tongi, Gazipur"
+  },
+  {
+    "label": "Tongi Cherag Ali, Gazipur"
+  },
+  {
+    "label": "Gopalganj Sadar, Gopalganj"
+  },
+  {
+    "label": "Kashiani, Gopalganj"
+  },
+  {
+    "label": "Kotalipara, Gopalganj"
+  },
+  {
+    "label": "Muksudpur, Gopalganj"
+  },
+  {
+    "label": "Tungipara, Gopalganj"
+  },
+  {
+    "label": "Azmireeganj, Habiganj"
+  },
+  {
+    "label": "Bahubal, Habiganj"
+  },
+  {
+    "label": "Baniachong, Habiganj"
+  },
+  {
+    "label": "Chunarughat, Habiganj"
+  },
+  {
+    "label": "Habiganj Sadar, Habiganj"
+  },
+  {
+    "label": "Lakhai, Habiganj"
+  },
+  {
+    "label": "Madhabpur, Habiganj"
+  },
+  {
+    "label": "Nabiganj, Habiganj"
+  },
+  {
+    "label": "Bakshiganj, Jamalpur"
+  },
+  {
+    "label": "Dewangonj, Jamalpur"
+  },
+  {
+    "label": "Islampur, Jamalpur"
+  },
+  {
+    "label": "Jamalpur Sadar, Jamalpur"
+  },
+  {
+    "label": "Madarganj, Jamalpur"
+  },
+  {
+    "label": "Melandaha, Jamalpur"
+  },
+  {
+    "label": "Sarishabari, Jamalpur"
+  },
+  {
+    "label": "Bagharpara, Jashore"
+  },
+  {
+    "label": "Benapole, Jashore"
+  },
+  {
+    "label": "Chaugachha, Jashore"
+  },
+  {
+    "label": "Jessore Sadar, Jashore"
+  },
+  {
+    "label": "Jhikargachha, Jashore"
+  },
+  {
+    "label": "Keshabpur, Jashore"
+  },
+  {
+    "label": "Monirampur, Jashore"
+  },
+  {
+    "label": "Obhoynagar, Jashore"
+  },
+  {
+    "label": "Sarsa, Jashore"
+  },
+  {
+    "label": "Jhalokathi Sadar, Jhalokati"
+  },
+  {
+    "label": "Kathalia, Jhalokati"
+  },
+  {
+    "label": "Nalchhiti, Jhalokati"
+  },
+  {
+    "label": "Rajapur, Jhalokati"
+  },
+  {
+    "label": "Harinakundu, Jhenaidah"
+  },
+  {
+    "label": "Jhenaidah sadar, Jhenaidah"
+  },
+  {
+    "label": "Kaligonj, Jhenaidah"
+  },
+  {
+    "label": "Kotchandpur, Jhenaidah"
+  },
+  {
+    "label": "Maheshpur, Jhenaidah"
+  },
+  {
+    "label": "Shailakupa, Jhenaidah"
+  },
+  {
+    "label": "Akkelpur, Joypurhat"
+  },
+  {
+    "label": "Joypurhat Sadar, Joypurhat"
+  },
+  {
+    "label": "Kalai, Joypurhat"
+  },
+  {
+    "label": "Khetlal, Joypurhat"
+  },
+  {
+    "label": "Panchbibi, Joypurhat"
+  },
+  {
+    "label": "Bagaichari, Khagrachari"
+  },
+  {
+    "label": "Dighinala, Khagrachari"
+  },
+  {
+    "label": "Guimara, Khagrachari"
+  },
+  {
+    "label": "Khagrachari Sadar, Khagrachari"
+  },
+  {
+    "label": "Lakkhichhari, Khagrachari"
+  },
+  {
+    "label": "Langodu, Khagrachari"
+  },
+  {
+    "label": "Mahalchhari, Khagrachari"
+  },
+  {
+    "label": "Maischori, Khagrachari"
+  },
+  {
+    "label": "Manikchhari, Khagrachari"
+  },
+  {
+    "label": "Matiranga, Khagrachari"
+  },
+  {
+    "label": "Mohalchori, Khagrachari"
+  },
+  {
+    "label": "Panchhari, Khagrachari"
+  },
+  {
+    "label": "Ramgar, Khagrachari"
+  },
+  {
+    "label": "Batiaghata, Khulna"
+  },
+  {
+    "label": "Boyra, Khulna"
+  },
+  {
+    "label": "Chandkhali, Khulna"
+  },
+  {
+    "label": "Dacope, Khulna"
+  },
+  {
+    "label": "Daulatpur, Khulna"
+  },
+  {
+    "label": "Digholia, Khulna"
+  },
+  {
+    "label": "Dumuria, Khulna"
+  },
+  {
+    "label": "Fultola, Khulna"
+  },
+  {
+    "label": "Khalishpur, Khulna"
+  },
+  {
+    "label": "Khulna Sadar, Khulna"
+  },
+  {
+    "label": "Kopilmuni, Khulna"
+  },
+  {
+    "label": "Koyra, Khulna"
+  },
+  {
+    "label": "Paikgachha Upozila, Khulna"
+  },
+  {
+    "label": "Rupsha, Khulna"
+  },
+  {
+    "label": "Sonadanga, Khulna"
+  },
+  {
+    "label": "Tala Upozilla, Khulna"
+  },
+  {
+    "label": "Terokhada, Khulna"
+  },
+  {
+    "label": "Astagram, Kishoreganj"
+  },
+  {
+    "label": "Bajitpur, Kishoreganj"
+  },
+  {
+    "label": "Bhairab, Kishoreganj"
+  },
+  {
+    "label": "Hossainpur, Kishoreganj"
+  },
+  {
+    "label": "Itna, Kishoreganj"
+  },
+  {
+    "label": "Karimganj, Kishoreganj"
+  },
+  {
+    "label": "Katiadi Upozila, Kishoreganj"
+  },
+  {
+    "label": "Kishoreganj Sadar, Kishoreganj"
+  },
+  {
+    "label": "Kuliarchar, Kishoreganj"
+  },
+  {
+    "label": "Mithamoin, Kishoreganj"
+  },
+  {
+    "label": "Nikli, Kishoreganj"
+  },
+  {
+    "label": "Pakundia, Kishoreganj"
+  },
+  {
+    "label": "Tarial, Kishoreganj"
+  },
+  {
+    "label": "Bhurungamari, Kurigram"
+  },
+  {
+    "label": "Char Rajibpur, Kurigram"
+  },
+  {
+    "label": "Chilmari, Kurigram"
+  },
+  {
+    "label": "Kurigram Sadar, Kurigram"
+  },
+  {
+    "label": "Nagesshari, Kurigram"
+  },
+  {
+    "label": "Phulbari, Kurigram"
+  },
+  {
+    "label": "Rajarhat, Kurigram"
+  },
+  {
+    "label": "Rawmari, Kurigram"
+  },
+  {
+    "label": "Ulipur, Kurigram"
+  },
+  {
+    "label": "Kushtia-Mirpur, Kushtia"
+  },
+  {
+    "label": "Bheramara, Kushtia"
+  },
+  {
+    "label": "Daulatpur, Kushtia"
+  },
+  {
+    "label": "Islamic University, Kushtia"
+  },
+  {
+    "label": "Khoksha, Kushtia"
+  },
+  {
+    "label": "Kumarkhali, Kushtia"
+  },
+  {
+    "label": "Kushtia Sadar, Kushtia"
+  },
+  {
+    "label": "Komalnagar, Lakshmipur"
+  },
+  {
+    "label": "Lakshimpur Sadar, Lakshmipur"
+  },
+  {
+    "label": "Raipur, Lakshmipur"
+  },
+  {
+    "label": "Ramganj, Lakshmipur"
+  },
+  {
+    "label": "Ramgoti, Lakshmipur"
+  },
+  {
+    "label": "Aditmari, Lalmonirhat"
+  },
+  {
+    "label": "Hatibandha, Lalmonirhat"
+  },
+  {
+    "label": "Kaliganj - Lalmonirhat, Lalmonirhat"
+  },
+  {
+    "label": "Lalmonirhat Sadar, Lalmonirhat"
+  },
+  {
+    "label": "Patgram, Lalmonirhat"
+  },
+  {
+    "label": "Dasar Thana, Madaripur"
+  },
+  {
+    "label": "Kalkini Thana, Madaripur"
+  },
+  {
+    "label": "Madaripur Sadar, Madaripur"
+  },
+  {
+    "label": "Rajoir Thana, Madaripur"
+  },
+  {
+    "label": "Shibchar, Madaripur"
+  },
+  {
+    "label": "Magura Sadar, Magura"
+  },
+  {
+    "label": "Mohammadpur, Magura"
+  },
+  {
+    "label": "Shalikha, Magura"
+  },
+  {
+    "label": "Sreepur, Magura"
+  },
+  {
+    "label": "ANGAR PARA, Manikganj"
+  },
+  {
+    "label": "DAULATPUR, Manikganj"
+  },
+  {
+    "label": "Daulatpur - Manikganj, Manikganj"
+  },
+  {
+    "label": "Ghior, Manikganj"
+  },
+  {
+    "label": "Ghior Thana, Manikganj"
+  },
+  {
+    "label": "Harirampur, Manikganj"
+  },
+  {
+    "label": "Manikganj Sadar, Manikganj"
+  },
+  {
+    "label": "SHIBALAYA, Manikganj"
+  },
+  {
+    "label": "Saturia, Manikganj"
+  },
+  {
+    "label": "Shivalaya, Manikganj"
+  },
+  {
+    "label": "Singair, Manikganj"
+  },
+  {
+    "label": "Gangni, Meherpur"
+  },
+  {
+    "label": "Meherpur Sadar, Meherpur"
+  },
+  {
+    "label": "Mujibnagar, Meherpur"
+  },
+  {
+    "label": "Baralekha, Moulvibazar"
+  },
+  {
+    "label": "Juri, Moulvibazar"
+  },
+  {
+    "label": "Kamalganj, Moulvibazar"
+  },
+  {
+    "label": "Kulaura, Moulvibazar"
+  },
+  {
+    "label": "Moulvibazar Sadar, Moulvibazar"
+  },
+  {
+    "label": "Rajnagar, Moulvibazar"
+  },
+  {
+    "label": "Sreemangal, Moulvibazar"
+  },
+  {
+    "label": "Gazaria, Munshiganj"
+  },
+  {
+    "label": "Lohajong, Munshiganj"
+  },
+  {
+    "label": "Munshiganj Sadar, Munshiganj"
+  },
+  {
+    "label": "Sirajdikhan, Munshiganj"
+  },
+  {
+    "label": "Sreenagar, Munshiganj"
+  },
+  {
+    "label": "Tongibari, Munshiganj"
+  },
+  {
+    "label": "Bhaluka, Mymensingh"
+  },
+  {
+    "label": "Dhobaura, Mymensingh"
+  },
+  {
+    "label": "Fulbaria, Mymensingh"
+  },
+  {
+    "label": "Gafargaon, Mymensingh"
+  },
+  {
+    "label": "Gauripur, Mymensingh"
+  },
+  {
+    "label": "Haluaghat, Mymensingh"
+  },
+  {
+    "label": "Ishwarganj, Mymensingh"
+  },
+  {
+    "label": "Muktagachha, Mymensingh"
+  },
+  {
+    "label": "Mymensingh Sadar, Mymensingh"
+  },
+  {
+    "label": "Nandail, Mymensingh"
+  },
+  {
+    "label": "Pagla, Mymensingh"
+  },
+  {
+    "label": "Phulpur, Mymensingh"
+  },
+  {
+    "label": "Tarakanda, Mymensingh"
+  },
+  {
+    "label": "Trishal, Mymensingh"
+  },
+  {
+    "label": "Atrai, Naogaon"
+  },
+  {
+    "label": "Bodolgachi, Naogaon"
+  },
+  {
+    "label": "Dhamoirhat, Naogaon"
+  },
+  {
+    "label": "Manda, Naogaon"
+  },
+  {
+    "label": "Mohadevpur, Naogaon"
+  },
+  {
+    "label": "Naogaon Sadar, Naogaon"
+  },
+  {
+    "label": "Niyamotpur, Naogaon"
+  },
+  {
+    "label": "Porsha, Naogaon"
+  },
+  {
+    "label": "Potnitola, Naogaon"
+  },
+  {
+    "label": "Raninagar, Naogaon"
+  },
+  {
+    "label": "Sapahar, Naogaon"
+  },
+  {
+    "label": "Kalia, Narail"
+  },
+  {
+    "label": "Narail - Lohagara, Narail"
+  },
+  {
+    "label": "Narail Sadar, Narail"
+  },
+  {
+    "label": "Terokhada, Narail"
+  },
+  {
+    "label": "2 no gate, Narayanganj"
+  },
+  {
+    "label": "Araihazar, Narayanganj"
+  },
+  {
+    "label": "Baidder Bazar, Narayanganj"
+  },
+  {
+    "label": "Bandar, Narayanganj"
+  },
+  {
+    "label": "Bausia, Narayanganj"
+  },
+  {
+    "label": "Bb road, Narayanganj"
+  },
+  {
+    "label": "Beldi-Daudpur, Narayanganj"
+  },
+  {
+    "label": "Bhuighor, Narayanganj"
+  },
+  {
+    "label": "Bhulta/Gawsia, Narayanganj"
+  },
+  {
+    "label": "Bisic, Narayanganj"
+  },
+  {
+    "label": "Boktaboli, Narayanganj"
+  },
+  {
+    "label": "Chashra, Narayanganj"
+  },
+  {
+    "label": "Delpara, Narayanganj"
+  },
+  {
+    "label": "Don Chamber, Narayanganj"
+  },
+  {
+    "label": "Ekrampur, Narayanganj"
+  },
+  {
+    "label": "Epz, Narayanganj"
+  },
+  {
+    "label": "Isdair, Narayanganj"
+  },
+  {
+    "label": "Ispahani Bandar, Narayanganj"
+  },
+  {
+    "label": "Jalkuri, Narayanganj"
+  },
+  {
+    "label": "Kachpur, Narayanganj"
+  },
+  {
+    "label": "Kashipur, Narayanganj"
+  },
+  {
+    "label": "Khanpur, Narayanganj"
+  },
+  {
+    "label": "Madanganj, Narayanganj"
+  },
+  {
+    "label": "Madanpur, Narayanganj"
+  },
+  {
+    "label": "Mahmudpur, Narayanganj"
+  },
+  {
+    "label": "Majdair, Narayanganj"
+  },
+  {
+    "label": "Masdair, Narayanganj"
+  },
+  {
+    "label": "Mitali Market, Narayanganj"
+  },
+  {
+    "label": "Modonpur, Narayanganj"
+  },
+  {
+    "label": "Mograpara, Narayanganj"
+  },
+  {
+    "label": "Nabiganj Bandar, Narayanganj"
+  },
+  {
+    "label": "Neela Market, Narayanganj"
+  },
+  {
+    "label": "New town, Narayanganj"
+  },
+  {
+    "label": "Nila Market, Narayanganj"
+  },
+  {
+    "label": "Nitaiganj, Narayanganj"
+  },
+  {
+    "label": "Pagla, Narayanganj"
+  },
+  {
+    "label": "Panchabati, Narayanganj"
+  },
+  {
+    "label": "Passport office (Siddhirganj), Narayanganj"
+  },
+  {
+    "label": "Ponchoboti, Narayanganj"
+  },
+  {
+    "label": "Purbachal, Narayanganj"
+  },
+  {
+    "label": "Rosulpur, Narayanganj"
+  },
+  {
+    "label": "Rupganj, Narayanganj"
+  },
+  {
+    "label": "Sayedpur - Narayanganj, Narayanganj"
+  },
+  {
+    "label": "Shaheb para, Narayanganj"
+  },
+  {
+    "label": "Shanarpar, Narayanganj"
+  },
+  {
+    "label": "Shibu Market, Narayanganj"
+  },
+  {
+    "label": "Shiddriganj, Narayanganj"
+  },
+  {
+    "label": "Siddirganj, Narayanganj"
+  },
+  {
+    "label": "Sonargaon, Narayanganj"
+  },
+  {
+    "label": "South Chashara, Narayanganj"
+  },
+  {
+    "label": "Vabarchar, Narayanganj"
+  },
+  {
+    "label": "Volail, Narayanganj"
+  },
+  {
+    "label": "Zilla Parishod, Narayanganj"
+  },
+  {
+    "label": "amlapara, Narayanganj"
+  },
+  {
+    "label": "ananda bazar, Narayanganj"
+  },
+  {
+    "label": "baburail, Narayanganj"
+  },
+  {
+    "label": "kaikartek, Narayanganj"
+  },
+  {
+    "label": "kanchpur, Narayanganj"
+  },
+  {
+    "label": "paikpara Narayanganj, Narayanganj"
+  },
+  {
+    "label": "Belabo, Narsingdi"
+  },
+  {
+    "label": "Chalakchar, Narsingdi"
+  },
+  {
+    "label": "Hatirdia, Narsingdi"
+  },
+  {
+    "label": "Monohardi, Narsingdi"
+  },
+  {
+    "label": "Madhabdi, Narsingdi"
+  },
+  {
+    "label": "Monohordi, Narsingdi"
+  },
+  {
+    "label": "Narshingdi Sadar, Narsingdi"
+  },
+  {
+    "label": "Palash, Narsingdi"
+  },
+  {
+    "label": "Raypura Upazila North Zone, Narsingdi"
+  },
+  {
+    "label": "Raypura Upazila South Zone, Narsingdi"
+  },
+  {
+    "label": "Shibpur, Narsingdi"
+  },
+  {
+    "label": "Bagatipara, Natore"
+  },
+  {
+    "label": "Baraigram, Natore"
+  },
+  {
+    "label": "Gopalpur UPO, Natore"
+  },
+  {
+    "label": "Gurdaspur, Natore"
+  },
+  {
+    "label": "Naldanga - Natore, Natore"
+  },
+  {
+    "label": "Natore Sadar, Natore"
+  },
+  {
+    "label": "Singra, Natore"
+  },
+  {
+    "label": "Atpara, Netrokona"
+  },
+  {
+    "label": "Barhatta, Netrokona"
+  },
+  {
+    "label": "Kalmakanda, Netrokona"
+  },
+  {
+    "label": "Kendua, Netrokona"
+  },
+  {
+    "label": "Khaliajuri, Netrokona"
+  },
+  {
+    "label": "Madan, Netrokona"
+  },
+  {
+    "label": "Mohanganj, Netrokona"
+  },
+  {
+    "label": "Netrokona Sadar, Netrokona"
+  },
+  {
+    "label": "Purbadhala, Netrokona"
+  },
+  {
+    "label": "Susang Durgapur, Netrokona"
+  },
+  {
+    "label": "Dimla, Nilphamari"
+  },
+  {
+    "label": "Domar, Nilphamari"
+  },
+  {
+    "label": "Jaldhaka, Nilphamari"
+  },
+  {
+    "label": "Kishoriganj, Nilphamari"
+  },
+  {
+    "label": "Nilphamari Sadar, Nilphamari"
+  },
+  {
+    "label": "Saidpur, Nilphamari"
+  },
+  {
+    "label": "Taraganj, Nilphamari"
+  },
+  {
+    "label": "Basurhat, Noakhali"
+  },
+  {
+    "label": "Begumganj, Noakhali"
+  },
+  {
+    "label": "Chatkhil, Noakhali"
+  },
+  {
+    "label": "Chondrogonj Thana, Noakhali"
+  },
+  {
+    "label": "Companigonj, Noakhali"
+  },
+  {
+    "label": "Hatia, Noakhali"
+  },
+  {
+    "label": "Kobirhat, Noakhali"
+  },
+  {
+    "label": "Maizdee, Noakhali"
+  },
+  {
+    "label": "Noakhali Sadar, Noakhali"
+  },
+  {
+    "label": "Senbag, Noakhali"
+  },
+  {
+    "label": "Sonaimuri, Noakhali"
+  },
+  {
+    "label": "Sonapur, Noakhali"
+  },
+  {
+    "label": "Subornochar, Noakhali"
+  },
+  {
+    "label": "Aminpur, Pabna"
+  },
+  {
+    "label": "Ataikula, Pabna"
+  },
+  {
+    "label": "Atghoria, Pabna"
+  },
+  {
+    "label": "Bera, Pabna"
+  },
+  {
+    "label": "Bhangura, Pabna"
+  },
+  {
+    "label": "Chatmohar, Pabna"
+  },
+  {
+    "label": "Ishwardi, Pabna"
+  },
+  {
+    "label": "Kasinathpur, Pabna"
+  },
+  {
+    "label": "Lalpur, Pabna"
+  },
+  {
+    "label": "Pabna Sadar, Pabna"
+  },
+  {
+    "label": "Pabna-Faridpur, Pabna"
+  },
+  {
+    "label": "Sathia, Pabna"
+  },
+  {
+    "label": "Sujanagar, Pabna"
+  },
+  {
+    "label": "Tebunia, Pabna"
+  },
+  {
+    "label": "Atwari, Panchagarh"
+  },
+  {
+    "label": "Boda, Panchagarh"
+  },
+  {
+    "label": "Debiganj, Panchagarh"
+  },
+  {
+    "label": "Panchagarh Sadar, Panchagarh"
+  },
+  {
+    "label": "Tetulia, Panchagarh"
+  },
+  {
+    "label": "Bauphal, Patuakhali"
+  },
+  {
+    "label": "Dashmina, Patuakhali"
+  },
+  {
+    "label": "Dumkee, Patuakhali"
+  },
+  {
+    "label": "Gala chipa, Patuakhali"
+  },
+  {
+    "label": "Kala para, Patuakhali"
+  },
+  {
+    "label": "Khepupara, Patuakhali"
+  },
+  {
+    "label": "Mohipur, Patuakhali"
+  },
+  {
+    "label": "Patuakhali Sadar, Patuakhali"
+  },
+  {
+    "label": "Subidkhali, Patuakhali"
+  },
+  {
+    "label": "Bhandaria, Pirojpur"
+  },
+  {
+    "label": "Mathbaria, Pirojpur"
+  },
+  {
+    "label": "Nazirpur, Pirojpur"
+  },
+  {
+    "label": "Pirojpur Sadar, Pirojpur"
+  },
+  {
+    "label": "Swarupkathi, Pirojpur"
+  },
+  {
+    "label": "Kaukhali, Pirojpur"
+  },
+  {
+    "label": "Baliakandi, Rajbari"
+  },
+  {
+    "label": "Goalanda, Rajbari"
+  },
+  {
+    "label": "Kalukhali, Rajbari"
+  },
+  {
+    "label": "Pangsha, Rajbari"
+  },
+  {
+    "label": "Rajbari Sadar, Rajbari"
+  },
+  {
+    "label": "Bagha, Rajshahi"
+  },
+  {
+    "label": "Bagmara, Rajshahi"
+  },
+  {
+    "label": "Banseshwar, Rajshahi"
+  },
+  {
+    "label": "Charghat, Rajshahi"
+  },
+  {
+    "label": "Durgapur, Rajshahi"
+  },
+  {
+    "label": "Godagari, Rajshahi"
+  },
+  {
+    "label": "Katakhali, Rajshahi"
+  },
+  {
+    "label": "Mohonpur, Rajshahi"
+  },
+  {
+    "label": "Motihar, Rajshahi"
+  },
+  {
+    "label": "Paba, Rajshahi"
+  },
+  {
+    "label": "Puthia, Rajshahi"
+  },
+  {
+    "label": "Rajpara, Rajshahi"
+  },
+  {
+    "label": "Rajshahi Sadar (Boalia), Rajshahi"
+  },
+  {
+    "label": "Shah Mokdum, Rajshahi"
+  },
+  {
+    "label": "Sharda, Rajshahi"
+  },
+  {
+    "label": "Taherpur, Rajshahi"
+  },
+  {
+    "label": "Tanor, Rajshahi"
+  },
+  {
+    "label": "Kaptai, Rangamati"
+  },
+  {
+    "label": "Kawkhali Thana, Rangamati"
+  },
+  {
+    "label": "Kotwali Thana, Rangamati"
+  },
+  {
+    "label": "Nanichhar, Rangamati"
+  },
+  {
+    "label": "Rajasthali, Rangamati"
+  },
+  {
+    "label": "Badarganj, Rangpur"
+  },
+  {
+    "label": "Gangachara, Rangpur"
+  },
+  {
+    "label": "Haragach Thana, Rangpur"
+  },
+  {
+    "label": "Kaunia, Rangpur"
+  },
+  {
+    "label": "Mahiganj Thana, Rangpur"
+  },
+  {
+    "label": "Mithapukur, Rangpur"
+  },
+  {
+    "label": "Pirgachha, Rangpur"
+  },
+  {
+    "label": "Pirganj Thana, Rangpur"
+  },
+  {
+    "label": "Porshurampur Thana, Rangpur"
+  },
+  {
+    "label": "Rangpur Cantonment, Rangpur"
+  },
+  {
+    "label": "Rangpur Sadar(Kotowali Thana), Rangpur"
+  },
+  {
+    "label": "Tajhat Thana, Rangpur"
+  },
+  {
+    "label": "Ashashuni Thana, Satkhira"
+  },
+  {
+    "label": "Debhata Thana, Satkhira"
+  },
+  {
+    "label": "Kalaroa, Satkhira"
+  },
+  {
+    "label": "Kaliganj, Satkhira"
+  },
+  {
+    "label": "Satkhira Sadar, Satkhira"
+  },
+  {
+    "label": "Shymnagar, Satkhira"
+  },
+  {
+    "label": "Tala Thana, Satkhira"
+  },
+  {
+    "label": "Bhedorganj, Shariatpur"
+  },
+  {
+    "label": "Damudhya, Shariatpur"
+  },
+  {
+    "label": "Gosairhat, Shariatpur"
+  },
+  {
+    "label": "Jajira, Shariatpur"
+  },
+  {
+    "label": "Naria, Shariatpur"
+  },
+  {
+    "label": "Shakhipur, Shariatpur"
+  },
+  {
+    "label": "Shariatpur Sadar (Palong), Shariatpur"
+  },
+  {
+    "label": "Jhinaigati, Sherpur"
+  },
+  {
+    "label": "Nakla, Sherpur"
+  },
+  {
+    "label": "Nalitabari, Sherpur"
+  },
+  {
+    "label": "Sherpur Sadar, Sherpur"
+  },
+  {
+    "label": "Sreebardi, Sherpur"
+  },
+  {
+    "label": "Belkuchi, Sirajganj"
+  },
+  {
+    "label": "Chowhali, Sirajganj"
+  },
+  {
+    "label": "Kamarkhanda, Sirajganj"
+  },
+  {
+    "label": "Kazipur, Sirajganj"
+  },
+  {
+    "label": "Rayganj, Sirajganj"
+  },
+  {
+    "label": "Salonga, Sirajganj"
+  },
+  {
+    "label": "Shahjadpur, Sirajganj"
+  },
+  {
+    "label": "Sirajganj Sadar, Sirajganj"
+  },
+  {
+    "label": "Tarash, Sirajganj"
+  },
+  {
+    "label": "Ullapara, Sirajganj"
+  },
+  {
+    "label": "Bishwamvarpur, Sunamganj"
+  },
+  {
+    "label": "Chhatak, Sunamganj"
+  },
+  {
+    "label": "Derai, Sunamganj"
+  },
+  {
+    "label": "Dharmapasha, Sunamganj"
+  },
+  {
+    "label": "Dowarabazar, Sunamganj"
+  },
+  {
+    "label": "Jagnnathpur, Sunamganj"
+  },
+  {
+    "label": "Jamalganj, Sunamganj"
+  },
+  {
+    "label": "Salla, Sunamganj"
+  },
+  {
+    "label": "Shantiganj, Sunamganj"
+  },
+  {
+    "label": "Sunamganj Sadar, Sunamganj"
+  },
+  {
+    "label": "Tahirpur, Sunamganj"
+  },
+  {
+    "label": "Balaganj, Sylhet"
+  },
+  {
+    "label": "Beanibazar, Sylhet"
+  },
+  {
+    "label": "Bishwanath, Sylhet"
+  },
+  {
+    "label": "Companyganj, Sylhet"
+  },
+  {
+    "label": "Dakshin Surma, Sylhet"
+  },
+  {
+    "label": "Fenchuganj, Sylhet"
+  },
+  {
+    "label": "Golapganj, Sylhet"
+  },
+  {
+    "label": "Gowainghat, Sylhet"
+  },
+  {
+    "label": "Jaintapur, Sylhet"
+  },
+  {
+    "label": "Kanaighat, Sylhet"
+  },
+  {
+    "label": "Osmani Nagar, Sylhet"
+  },
+  {
+    "label": "Sylhet Sadar, Sylhet"
+  },
+  {
+    "label": "Zakiganj, Sylhet"
+  },
+  {
+    "label": "Bashail, Tangail"
+  },
+  {
+    "label": "Bhuapur, Tangail"
+  },
+  {
+    "label": "Delduar, Tangail"
+  },
+  {
+    "label": "Dhanbari, Tangail"
+  },
+  {
+    "label": "Ghatail, Tangail"
+  },
+  {
+    "label": "Gopalpur, Tangail"
+  },
+  {
+    "label": "Kalihati, Tangail"
+  },
+  {
+    "label": "Madhupur, Tangail"
+  },
+  {
+    "label": "Mirzapur, Tangail"
+  },
+  {
+    "label": "Nagarpur, Tangail"
+  },
+  {
+    "label": "Sakhipur, Tangail"
+  },
+  {
+    "label": "Tangail Sadar, Tangail"
+  },
+  {
+    "label": "Baliadangi, Thakurgaon"
+  },
+  {
+    "label": "Haripur, Thakurgaon"
+  },
+  {
+    "label": "Pirganj, Thakurgaon"
+  },
+  {
+    "label": "Ranisankail, Thakurgaon"
+  },
+  {
+    "label": "Ruhiya, Thakurgaon"
+  },
+  {
+    "label": "Thakurgaon Sadar, Thakurgaon"
+  }
+]

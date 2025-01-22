@@ -100,3 +100,16 @@ body {
   -webkit-text-stroke: 1px var(--foreground);
   text-stroke: 1px var(--foreground);
 }
+
+.hide-scrollbar {
+  overflow: auto; /* Enables scrolling */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; /* Hides scrollbar in WebKit-based browsers (e.g., Chrome, Safari, Edge) */
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none; /* Hides scrollbar in IE and older Edge */
+  scrollbar-width: none; /* Hides scrollbar in Firefox */
+}
