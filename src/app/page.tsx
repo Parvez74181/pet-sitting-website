@@ -126,9 +126,9 @@ export default function Home() {
             ))}
           </div>
           <div className="flex justify-center items-center mt-2 md:mt-4">
-            <Button color="primary" className="w-full sm:w-[250px]  h-12">
+            <SitterFindingModal color="primary" className="w-full sm:w-[250px]  h-12">
               Book a Sitter Now <PawPrint />
-            </Button>
+            </SitterFindingModal>
           </div>
         </div>
       </section>

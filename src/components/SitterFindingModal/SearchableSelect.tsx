@@ -1,44 +1,33 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Autocomplete, AutocompleteItem } from "@heroui/react";
 import { MapPin } from "lucide-react";
-import { fetchDistrictData } from "@/app/actions";
 import districtData from "../../../public/district-data.json";
+import { useAppDispatch } from "@/lib/hooks";
+import { setLocation } from "@/lib/features/sitterFindingModal/location/locationSlice";
 
 const SearchableSelect = () => {
-  const [searchValue, setSearchValue] = useState("");
-  const [location, setLocation] = useState<string>("");
-  // const [districtData, setDistrictData] = useState<{ label: string }[]>([]); // Updated to accept objects with a label property
-
-  // useEffect(() => {
-  //   const fetchData = async () => {
-  //     const { data, ok } = await fetchDistrictData();
-  //     if (!ok) {
-  //       console.log("Failed to fetch district data");
-  //       return;
-  //     }
-
-  //     setDistrictData(data);
-  //   };
-
-  //   fetchData();
-  // }, []);
-
+  const [value, setValue] = useState<string>("");
+  const dispatch = useAppDispatch();
   const handleLocationInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setLocation(e.target.value.trim().toLowerCase());
+    const value = e.target.value.trim().toLowerCase();
+    setValue(value);
   };
 
+  const handleItemSelect = (key: React.Key | null) => {
+    dispatch(setLocation(key as string));
+  };
   return (
     <>
       <h6 className=" text-lg font-bold">Location</h6>
       <Autocomplete
         isVirtualized
         isRequired
-        value={location}
+        value={value}
         onChange={handleLocationInputChange}
         variant="bordered"
         className="w-full"
-        // label="Location"
+        aria-label="location"
         labelPlacement="outside"
         startContent={<MapPin className="opacity-80" />}
         placeholder="Enter your location"
@@ -50,6 +39,7 @@ const SearchableSelect = () => {
         classNames={{
           base: "hey",
         }}
+        onSelectionChange={handleItemSelect}
       >
         {(district) => <AutocompleteItem key={district.label}>{district.label}</AutocompleteItem>}
       </Autocomplete>

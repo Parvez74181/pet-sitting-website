@@ -1,5 +1,4 @@
 "use client";
-import { fetchDistrictData } from "@/app/actions";
 import { cn } from "@/lib/utils";
 import {
   Modal,
@@ -7,20 +6,17 @@ import {
   ModalHeader,
   ModalBody,
   ModalFooter,
-  ModalProps,
   useDisclosure,
   Button as HeroUIButton,
-  Input,
   Form,
-  Divider,
 } from "@heroui/react";
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import Button from "../ui/buttton";
-import { MapPin, Minus, MinusCircle, PlusCircle, Search } from "lucide-react";
+import { Search } from "lucide-react";
 import SearchableSelect from "./SearchableSelect";
-import services from "@/data/services";
-import petCategories from "@/data/petCategories ";
 import PetCounter from "./PetCounter";
+import PetServices from "./PetServices";
+import { useAppSelector } from "@/lib/hooks";
 
 type Props = {
   children: React.ReactNode;
@@ -29,20 +25,58 @@ type Props = {
 };
 const SitterFindingModal = ({ children, className, color }: Props) => {
   const hiddenButtonRef = useRef<HTMLButtonElement | null>(null);
+  const errorContainer = useRef<HTMLParagraphElement | null>(null);
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
-  const [submitted, setSubmitted] = useState(null);
-  const [FormData, setFormData] = useState([]);
 
+  const [loading, setLoading] = useState<boolean>(false);
+  const [error, setError] = useState({
+    petServices: false,
+    petCounts: false,
+  });
+  const selectedPetService = useAppSelector((state) => state.petServices.selectedPetService);
+  const location = useAppSelector((state) => state.location.location);
+  const petCounts = useAppSelector((state) => state.petCounter);
+
+  const validateValues = (): boolean => {
+    if (!selectedPetService) {
+      setError((prevError) => ({ ...prevError, petServices: true }));
+      errorContainer.current!.innerText = "Please select a pet service";
+      return false;
+    }
+
+    if (!location) {
+      setError((prevError) => ({ ...prevError, location: true }));
+      errorContainer.current!.innerText = "Please select a location";
+      return false;
+    }
+
+    const atLeastOnePetCountNonZero = Object.values(petCounts).some((count) => count > 0);
+    if (!atLeastOnePetCountNonZero) {
+      setError((prevError) => ({ ...prevError, petCounts: true }));
+      errorContainer.current!.innerText = "Please select a pet";
+      return false;
+    }
+
+    return true;
+  };
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    // Prevent default browser page refresh.
     e.preventDefault();
+    setLoading(true);
 
-    // Get form data as an object.
-    // const data = Object.fromEntries(new FormData(e.currentTarget));
-    console.log(e.currentTarget);
+    if (!validateValues()) {
+      setLoading(false);
+      return;
+    }
 
-    // Submit data to your backend API.
-    // setSubmitted(data);
+    setTimeout(() => {
+      setLoading(false);
+      errorContainer.current!.innerText = "";
+      console.log("Form submitted successfully with data:", {
+        selectedPetService,
+        location,
+        petCounts,
+      });
+    }, 1000);
   };
 
   const handleSubmitFormClick = () => {
@@ -51,7 +85,6 @@ const SitterFindingModal = ({ children, className, color }: Props) => {
     }
   };
 
-  const handleServiceSelect = () => {};
   return (
     <>
       <HeroUIButton
@@ -72,28 +105,29 @@ const SitterFindingModal = ({ children, className, color }: Props) => {
         <ModalContent>
           {(onClose) => (
             <>
-              <ModalHeader className="flex flex-col gap-1">Find a Sitter in your area</ModalHeader>
+              <ModalHeader className="flex flex-col gap-1">
+                <span>Find a Sitter in your area</span>
+                <p ref={errorContainer} className="text-sm text-danger font-normal"></p>
+              </ModalHeader>
+
               <ModalBody className="hide-scrollbar">
-                <Form onSubmit={onSubmit} validationBehavior="native">
+                <Form encType="application/x-www-form-urlencoded" onSubmit={onSubmit} validationBehavior="native">
                   <SearchableSelect />
 
-                  <h6 className="mt-5 text-lg font-bold">What services are you looking for?</h6>
+                  <h6 id="petService" className="mt-5 text-lg font-bold">
+                    What services are you looking for?
+                  </h6>
+                  <PetServices isError={error.petServices} />
 
-                  {services.map((service, i) => (
-                    <div key={i} className="w-full cursor-pointer">
-                      <div className="border  p-3 w-full rounded-xl flex items-center justify-start gap-3">
-                        <span>{service.icon}</span>
-                        <div className="font-sofia-extralight ">
-                          <h6>{service.title}</h6>
-                          <p>{service.subDescription}</p>
-                        </div>
-                      </div>
-                    </div>
-                  ))}
+                  {/* <h6 id="date" className="mt-5 text-lg font-bold">
+                    When do you need the service?
+                  </h6>
+                  <PetServices isError={error.petServices} /> */}
 
-                  <h6 className="mt-5 text-lg font-bold">How many pets do you need to book for?</h6>
-
-                  <PetCounter />
+                  <h6 id="petCount" className="mt-5 text-lg font-bold">
+                    How many pets do you need to book for?
+                  </h6>
+                  <PetCounter isError={error.petCounts} />
 
                   <Button ref={hiddenButtonRef} color="primary" className="w-full hidden" type="submit">
                     <Search size={20} strokeWidth={2.5} /> Find a sitter
@@ -107,6 +141,7 @@ const SitterFindingModal = ({ children, className, color }: Props) => {
                   color="primary"
                   className="w-full "
                   type="submit"
+                  isLoading={loading}
                 >
                   <Search size={20} strokeWidth={2.5} /> Find a sitter
                 </Button>

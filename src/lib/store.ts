@@ -1,10 +1,16 @@
 import { configureStore } from "@reduxjs/toolkit";
-import petCounterReducer from "./features/petCounter/petCounterSlice";
+import petCounterReducer from "./features/sitterFindingModal/petCounter/petCounterSlice";
+import petServicesReducer from "./features/sitterFindingModal/petServices/petServicesSlice";
+import locationReducer from "./features/sitterFindingModal/location/locationSlice";
+import dateChosenReducer from "./features/sitterFindingModal/dateChosen/dateChosenSlice";
 
 export const makeStore = () => {
   return configureStore({
     reducer: {
       petCounter: petCounterReducer,
+      petServices: petServicesReducer,
+      location: locationReducer,
+      dateChosen: dateChosenReducer,
     },
     middleware: (getDefaultMiddleware) => getDefaultMiddleware(),
   });
