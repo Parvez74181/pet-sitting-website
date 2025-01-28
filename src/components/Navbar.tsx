@@ -6,7 +6,6 @@ import {
   NavbarBrand,
   NavbarContent,
   NavbarItem,
-  Link,
   DropdownItem,
   DropdownTrigger,
   Dropdown,
@@ -15,6 +14,8 @@ import {
 } from "@heroui/react";
 import Button from "./ui/buttton";
 import SitterFindingModal from "./SitterFindingModal/SitterFindingModal";
+import Image from "next/image";
+import Link from "next/link";
 
 const Navbar = () => {
   const menuItems = [
@@ -25,7 +26,9 @@ const Navbar = () => {
   return (
     <NavbarUI shouldHideOnScroll className="*:px-0 *:max-w-full *:px-container">
       <NavbarBrand>
-        <p className="font-bold text-inherit">LOGO</p>
+        <Link href={"/"}>
+          <Image src="/logo.svg" alt="logo" width={500} height={250} sizes="50vw" className="w-12 " />
+        </Link>
       </NavbarBrand>
 
       <NavbarContent className="hidden sm:flex gap-4" justify="center">

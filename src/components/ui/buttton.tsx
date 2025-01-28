@@ -1,5 +1,5 @@
 "use client";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/utils";
 import { Button as ButtonUI } from "@heroui/react";
 
 type button = {

@@ -2,7 +2,7 @@
 
 import petCategories from "@/data/petCategories ";
 import { decrementPetCount, incrementPetCount } from "@/lib/features/sitterFindingModal/petCounter/petCounterSlice";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/utils";
 import { Button } from "@heroui/react";
 import { MinusCircle, PlusCircle } from "lucide-react";
 import { useState } from "react";

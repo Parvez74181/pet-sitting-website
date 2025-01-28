@@ -1,0 +1,123 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id             Int         @id @default(autoincrement())
+  name           String
+  password       String      @default("")
+  email          String      @unique
+  phone          String
+  role           Role        @default(OWNER)
+  profilePic     String? // Optional profile picture
+  bio            String? // Optional bio for sitters
+  createdAt      DateTime    @default(now())
+  updatedAt      DateTime    @updatedAt
+  pets           Pet[]
+  bookings       Booking[]
+  sitterInfo     SitterInfo?
+  reviews        Review[]    @relation("UserReviews")
+  writtenReviews Review[]    @relation("OwnerReviews")
+
+  ownerBookings  Booking[] @relation("Owner")
+  sitterBookings Booking[] @relation("Sitter")
+}
+
+model SitterInfo {
+  id           Int    @id @default(autoincrement())
+  userId       Int    @unique
+  hourlyRate   Float
+  availability String // E.g., "Mon-Fri, 9am-6pm"
+  services     String // E.g., "Pet sitting, walking"
+  User         User   @relation(fields: [userId], references: [id])
+}
+
+model Pet {
+  id      Int     @id @default(autoincrement())
+  name    String
+  type    PetType
+  breed   String?
+  age     Int
+  ownerId Int
+  User    User    @relation(fields: [ownerId], references: [id])
+
+  Booking Booking[]
+}
+
+model Booking {
+  id          Int           @id @default(autoincrement())
+  ownerId     Int
+  sitterId    Int
+  petId       Int
+  startDate   DateTime
+  endDate     DateTime
+  totalAmount Float
+  status      BookingStatus @default(PENDING)
+  createdAt   DateTime      @default(now())
+  owner       User          @relation("Owner", fields: [ownerId], references: [id])
+  sitter      User          @relation("Sitter", fields: [sitterId], references: [id])
+  pet         Pet           @relation(fields: [petId], references: [id])
+
+  Payment Payment[]
+
+  User User[]
+}
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  rating    Int      @default(5) // 1 to 5 stars
+  comment   String?
+  createdAt DateTime @default(now())
+  sitterId  Int
+  ownerId   Int
+  sitter    User     @relation("UserReviews", fields: [sitterId], references: [id])
+  owner     User     @relation("OwnerReviews", fields: [ownerId], references: [id])
+}
+
+model Payment {
+  id        Int           @id @default(autoincrement())
+  bookingId Int
+  amount    Float
+  status    PaymentStatus @default(PENDING)
+  createdAt DateTime      @default(now())
+  booking   Booking       @relation(fields: [bookingId], references: [id])
+}
+
+enum Role {
+  OWNER
+  SITTER
+  ADMIN
+}
+
+enum PetType {
+  PUPPY
+  SMALL_DOG
+  MEDIUM_DOG
+  LARGE_DOG
+  GIANT_DOG
+  RABBIT
+  GUINEA_PIG
+  FISH
+  REPTILE
+  CAT
+  BIRD
+  OTHER
+}
+
+enum BookingStatus {
+  PENDING
+  CONFIRMED
+  COMPLETED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  PENDING
+  SUCCESS
+  FAILED
+}

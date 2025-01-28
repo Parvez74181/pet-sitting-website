@@ -3,7 +3,7 @@
 import services from "@/data/services";
 import { setSelectedPetService } from "@/lib/features/sitterFindingModal/petServices/petServicesSlice";
 import { useAppDispatch, useAppSelector } from "@/lib/hooks";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/utils";
 
 const PetServices = ({ isError }: { isError: boolean }) => {
   const dispatch = useAppDispatch();

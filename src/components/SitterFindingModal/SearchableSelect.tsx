@@ -28,7 +28,6 @@ const SearchableSelect = () => {
         variant="bordered"
         className="w-full"
         aria-label="location"
-        labelPlacement="outside"
         startContent={<MapPin className="opacity-80" />}
         placeholder="Enter your location"
         errorMessage="Location is required"
@@ -37,7 +36,7 @@ const SearchableSelect = () => {
           isEnabled: false,
         }}
         classNames={{
-          base: "hey",
+          base: "",
         }}
         onSelectionChange={handleItemSelect}
       >

@@ -8,11 +8,12 @@ import { FaFish } from "react-icons/fa";
 import { GiHummingbird, GiReptileTail } from "react-icons/gi";
 
 import SafeCare from "../../public/safe-care.jpg";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/utils";
 import FAQ from "@/components/FAQ";
 import SitterFindingModal from "@/components/SitterFindingModal/SitterFindingModal";
 import services from "@/data/services";
 import sitterBookingProcess from "@/data/sitterBookingProcess";
+import Link from "next/link";
 
 const petCategories = [
   { name: "Dogs", icon: <FaDog size={24} className="text-blue-500" /> },
@@ -32,7 +33,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-5xl lg:text-7xl tracking-tight text-center lg:text-start font-sofia-medium">
               Your Pets Deserve the Best, and We're Here to Provide It!
             </h1>
-            <p className="section-subtitle">
+            <p className="section-subtitle text-left">
               Whether you need a reliable pet sitter, grooming services, or premium pet food, we've got you covered. Our
               team of experienced professionals is dedicated to ensuring your pets receive the best care possible.
             </p>
@@ -41,9 +42,11 @@ export default function Home() {
               <SitterFindingModal color="primary" className="w-full sm:w-[220px]  h-12">
                 Book a Sitter Now <PawPrint />
               </SitterFindingModal>
-              <Button className="bg-transparent hover:bg-gray-100 border w-full sm:w-[220px] lg:w-[200px] xl:w-[220px]  h-12">
-                Become a sitter <ArrowRight strokeWidth={1} />
-              </Button>
+              <Link href={"/login"}>
+                <Button className="bg-transparent hover:bg-gray-100 border w-full sm:w-[220px] lg:w-[200px] xl:w-[220px]  h-12">
+                  Become a sitter <ArrowRight strokeWidth={1} />
+                </Button>
+              </Link>
             </div>
           </div>
 
